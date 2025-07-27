@@ -7,7 +7,7 @@ export const heroData = {
   titleLines: [
     "Engineering Dynamic Websites Lead the",
     "Digital Frontier With",
-    "Spark Fortage Innovation"
+    "Devvore Innovation"
   ],
   subtitle: {
     full: "Custom websites, powerful SaaS solutions, and digital services",

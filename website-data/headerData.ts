@@ -1,5 +1,5 @@
 export const brandInfo = {
-  name: "SparkFortage",
+  name: "Devvore",
   logo:"",
 };
 

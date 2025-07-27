@@ -3,7 +3,7 @@
 import { Twitter, Linkedin, Github } from "lucide-react"
 
 export const brand = {
-  name: "SparkFortage",
+  name: "Devvore",
   tagline: "Crafted with passion.",
 }
 
