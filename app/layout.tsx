@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SparkFortage - Web Services & SaaS Solutions",
+  title: "Devvore - Web Services & SaaS Solutions",
   description: "Professional website development, SaaS products, and digital services for businesses of all sizes.",
   generator: "v0.dev",
   icons: {
