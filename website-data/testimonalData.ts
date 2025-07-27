@@ -52,7 +52,7 @@ export const testimonialsData = [
   },
      {
     quote:
-      "A fantastic experience working with SparkFortage. Professional, efficient, and highly recommended!",
+      "A fantastic experience working with Devvore. Professional, efficient, and highly recommended!",
     author: "Hansadema",
     company: "Private Business",
     country:"Netherlands"

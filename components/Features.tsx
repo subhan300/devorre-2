@@ -20,7 +20,7 @@ const Features = () => {
           <PageHeaderTitle
             classTitle="dark:text-foreground"
             badge="Features"
-            title="Why Choose Spark Fortage?"
+            title="Why Choose Devvore?"
             description="We combine cutting-edge technology with creative design to deliver exceptional digital experiences."
           />
         </div>
